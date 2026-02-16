@@ -1,0 +1,9 @@
+
+#lienzo {
+    background-color: #7b1e3a;     /* Color vino (relleno) */
+    border: 3px solid red;         /* Borde rojo */
+    border-radius: 20px;           /* Esquinas redondeadas */
+    
+    /* Sombra */
+    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.4);
+}
